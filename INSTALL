@@ -1,9 +1,9 @@
-Building Dogecoin
+Building Parcelcoin
 
-See doc/readme-qt.rst for instructions on building Dogecoin-Qt,
+See doc/readme-qt.rst for instructions on building Parcelcoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Dogecoin.
+implementation of Parcelcoin.
 
-See doc/build-*.txt for instructions on building dogecoind,
+See doc/build-*.txt for instructions on building parcelcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Dogecoin.
+implementation of Parcelcoin.

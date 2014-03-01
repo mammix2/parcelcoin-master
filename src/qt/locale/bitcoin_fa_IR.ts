@@ -2231,8 +2231,8 @@ Address: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 22556 or testnet: 44556)</source>
-        <translation>ارتباطات را در &lt;PORT&gt; بشنوید (پیش فرض: 22556 or testnet: 44556)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 9316 or testnet: 44556)</source>
+        <translation>ارتباطات را در &lt;PORT&gt; بشنوید (پیش فرض: 9316 or testnet: 44556)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2266,8 +2266,8 @@ Address: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22555 or testnet: 44555)</source>
-        <translation>ارتباطاتِ JSON-RPC  را در &lt;port&gt;  گوش کنید (پیش فرض:22555)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9315 or testnet: 19315)</source>
+        <translation>ارتباطاتِ JSON-RPC  را در &lt;port&gt;  گوش کنید (پیش فرض:9315)</translation>
     </message>
     <message>
         <location line="+37"/>

@@ -84,6 +84,6 @@ Litecoin
 -------
 DOS prompt:
 
-	cd \dogecoin\src
+	cd \parcelcoin\src
 	mingw32-make -f makefile.mingw
-	strip dogecoind.exe
+	strip parcelcoind.exe

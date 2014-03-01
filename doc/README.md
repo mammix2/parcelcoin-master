@@ -1,9 +1,9 @@
-Dogecoin 0.8.x BETA
+Parcelcoin 0.8.x BETA
 ====================
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
-Copyright (c) 2013- Dogecoin Developers
+Copyright (c) 2013- Parcelcoin Developers
 
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -13,7 +13,7 @@ cryptographic software written by Eric Young ([eay@cryptsoft.com](mailto:eay@cry
 
 Intro
 ---------------------
-Dogecoin is a free open source peer-to-peer electronic cash system that is
+Parcelcoin is a free open source peer-to-peer electronic cash system that is
 completely decentralized, without the need for a central server or trusted
 parties.  Users hold the crypto keys to their own money and transact directly
 with each other, with the help of a P2P network to check for double-spending.
@@ -21,17 +21,17 @@ with each other, with the help of a P2P network to check for double-spending.
 
 Setup
 ---------------------
-You need the Qt4 run-time libraries to run Dogecoin-Qt. On Debian or Ubuntu:
+You need the Qt4 run-time libraries to run Parcelcoin-Qt. On Debian or Ubuntu:
         `sudo apt-get install libqtgui4`
 
 Unpack the files into a directory and run:
 
-- bin/32/Dogecoin-qt (GUI, 32-bit)
-- bin/32/Dogecoind (headless, 32-bit)
-- bin/64/Dogecoin-qt (GUI, 64-bit)
-- bin/64/Dogecoind (headless, 64-bit)
+- bin/32/Parcelcoin-qt (GUI, 32-bit)
+- bin/32/Parcelcoind (headless, 32-bit)
+- bin/64/Parcelcoin-qt (GUI, 64-bit)
+- bin/64/Parcelcoind (headless, 64-bit)
 
-See the documentation at (http://www.Dogecoin.com)
+See the documentation at (http://www.Parcelcoin.com)
 for help and more information.
                                                                                                                                                                            
                                                                                                                                                                            
