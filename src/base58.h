@@ -1,6 +1,6 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2012 The Bitcoin Developers
-// Copyright (c) 2013-2014 Dogecoin Developers
+// Copyright (c) 2013-2014 Parcelcoin Developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -273,10 +273,10 @@ class CBitcoinAddress : public CBase58Data
 public:
     enum
     {
-        PUBKEY_ADDRESS = 30, // DogeCoin addresses start with D
-        SCRIPT_ADDRESS = 22,
-        PUBKEY_ADDRESS_TEST = 113,
-        SCRIPT_ADDRESS_TEST = 196,
+        PUBKEY_ADDRESS = 55, // Dogecoin = 30, Litecoin = 48, PPCoin = 55
+        SCRIPT_ADDRESS = 117, // Dogecoin = 22, Litecoin = 5, PPCoin = 117
+        PUBKEY_ADDRESS_TEST = 111, // Dogecoin = 113, Litecoin = 111
+        SCRIPT_ADDRESS_TEST = 196, // Dogecoin = 196, Litecoin = 196
     };
 
     bool Set(const CKeyID &id) {
