@@ -6,10 +6,10 @@
 	<array>
 		<dict>
 			<key>CFBundleURLName</key>
-			<string>dogecoin</string>
+			<string>parcelcoin</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>dogecoin</string>
+				<string>parcelcoin</string>
 			</array>
 		</dict>
 	</array>
@@ -20,18 +20,18 @@
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 	<key>CFBundleIconFile</key>
-	<string>Dogecoin.icns</string>
+	<string>Parcelcoin.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© Dogecoin</string>
+	<string>© Parcelcoin</string>
 	<key>CFBundleSignature</key>
-	<string>DOGE</string>
+	<string>PARL</string>
 	<key>CFBundleExecutable</key>
-	<string>Dogecoin-Qt</string>
+	<string>Parcelcoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.dogecoin.wallet-qt</string>
+	<string>com.parcelcoin.wallet-qt</string>
 	<key>CFBundleName</key>
-	<string>Dogecoin-Qt</string>
+	<string>Parcelcoin-Qt</string>
 </dict>
 </plist>
