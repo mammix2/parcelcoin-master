@@ -1,26 +1,22 @@
 # Parcelcoin [PARL, Ð] Integration/Staging Tree
 http://parcelcoin.com/
 
-![ParcelCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
-
-## What is ParcelCoin? - Such coin
-Parcelcoin is like Bitcoin, but based on Litecoin, and also much more wow.
+## What is ParcelCoin? 
+Parcelcoin is like Bitcoin, but based on Litecoin.
 http://parcelcoin.com/
 
-## License - Much license
+## License.
 ParcelCoin is released under the terms of the MIT license. See [COPYING](COPYING)
 for more information or see http://opensource.org/licenses/MIT.
 
-## Development and contributions - omg developers
+## Development and contributions.
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-## Very Much Frequently Asked Questions
+## Frequently Asked Questions
 
-### How much parl can exist?
-Early 2015 (approximately a year and a half after release) there will be approximately 100,000,000,000 coins.
-Each subsequent block will grant 10,000 coins to encourage miners to continue to secure the network and make up for lost wallets on hard drives/phones/lost encryption passwords/etc.
-For the block schedule, see http://en.wikipedia.org/wiki/Parcelcoin#Block_schedule
+### How much Parcelcoin can exist?
+TBD
 
 ### How get parl?
 Scrypt Proof of Work
