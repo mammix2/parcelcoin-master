@@ -1,4 +1,4 @@
-# Parcelcoin [PARL, Ð] Integration/Staging Tree
+# Parcelcoin [PARL] Integration/Staging Tree
 http://parcelcoin.com/
 
 ## What is ParcelCoin? 
